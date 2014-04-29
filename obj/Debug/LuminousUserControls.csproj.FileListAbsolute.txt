@@ -1,0 +1,5 @@
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousUserControls.dll
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousUserControls.pdb
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\LuminousUserControls.dll
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\LuminousUserControls.pdb
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\LuminousUserControls.csprojResolveAssemblyReference.cache

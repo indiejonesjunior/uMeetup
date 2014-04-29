@@ -1,0 +1,9 @@
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousAcuity.Meetup.dll
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousAcuity.Meetup.pdb
+C:\main\LuminousAcuity\LuminousUserControls\bin\Newtonsoft.Json.dll
+C:\main\LuminousAcuity\LuminousUserControls\bin\Newtonsoft.Json.xml
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\LuminousAcuity.Meetup.dll
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\LuminousAcuity.Meetup.pdb
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\Meetup.csprojResolveAssemblyReference.cache
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousAcuity.Library.dll
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousAcuity.Library.pdb

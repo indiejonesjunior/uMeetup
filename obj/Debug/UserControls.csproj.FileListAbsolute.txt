@@ -1,0 +1,6 @@
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousUserControls.dll
+C:\main\LuminousAcuity\LuminousUserControls\bin\LuminousUserControls.pdb
+C:\main\LuminousAcuity\LuminousUserControls\bin\Newtonsoft.Json.dll
+C:\main\LuminousAcuity\LuminousUserControls\bin\Newtonsoft.Json.xml
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\LuminousUserControls.dll
+C:\main\LuminousAcuity\LuminousUserControls\obj\Debug\LuminousUserControls.pdb
