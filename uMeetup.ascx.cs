@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 using LuminousAcuity.Meetup.Model;
-using LuminousAcuity.Library;
+using LuminousAcuity.Library.Helpers;
 
 namespace LuminousAcuity.Meetup
 {
@@ -17,6 +12,7 @@ namespace LuminousAcuity.Meetup
             string baseUrl = configHelper.GetConfigSetting("BaseURL");
             if (baseUrl == null)
                 return;
+            string nearestUrl = null;
 
             string events = configHelper.GetConfigSetting("Events");
             string openEvents = configHelper.GetConfigSetting("OpenEvents");
@@ -26,7 +22,6 @@ namespace LuminousAcuity.Meetup
             string groups = configHelper.GetConfigSetting("Groups");
 
             string jsonService = baseUrl + events + apiKey;
-            string nearestUrl = null;
 
             using (MeetUpEventRepository meetupEvents = new MeetUpEventRepository(jsonService))
             {

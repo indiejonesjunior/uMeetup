@@ -1,4 +1,4 @@
-﻿using LuminousAcuity.Library;
+﻿using LuminousAcuity.Library.Helpers;
 using LuminousAcuity.Meetup.Infrastructure;
 using System;
 using System.Collections.Generic;

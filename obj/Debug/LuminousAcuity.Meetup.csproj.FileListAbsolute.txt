@@ -25,3 +25,11 @@ C:\main\LuminousAcuity.Meetup\bin\Newtonsoft.Json.xml
 C:\main\LuminousAcuity.Meetup\obj\Debug\LuminousAcuity.Meetup.csprojResolveAssemblyReference.cache
 C:\main\LuminousAcuity.Meetup\obj\Debug\LuminousAcuity.Meetup.dll
 C:\main\LuminousAcuity.Meetup\obj\Debug\LuminousAcuity.Meetup.pdb
+D:\GitHub\uMeetup\obj\Debug\LuminousAcuity.Meetup.csprojResolveAssemblyReference.cache
+D:\GitHub\uMeetup\obj\Debug\LuminousAcuity.Meetup.dll
+D:\GitHub\uMeetup\bin\LuminousAcuity.Meetup.dll
+D:\GitHub\uMeetup\bin\LuminousAcuity.Meetup.pdb
+D:\GitHub\uMeetup\bin\LuminousAcuity.Library.dll
+D:\GitHub\uMeetup\bin\Newtonsoft.Json.dll
+D:\GitHub\uMeetup\bin\LuminousAcuity.Library.pdb
+D:\GitHub\uMeetup\obj\Debug\LuminousAcuity.Meetup.pdb

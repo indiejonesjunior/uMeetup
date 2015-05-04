@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using LuminousAcuity.Meetup.Infrastructure;
 using LuminousAcuity.Meetup.Model;
-using LuminousAcuity.Library;
+using LuminousAcuity.Library.Helpers;
 
 namespace LuminousAcuity.Meetup
 {
